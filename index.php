@@ -4,4 +4,6 @@
     echo "Mahanakorn";
     echo "ABCDEHG"
     echo "Mbappe"
+    echo "123456"
+    echo "Doraemon"
 ?>
